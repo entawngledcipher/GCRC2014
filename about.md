@@ -1,8 +1,14 @@
 ---
 layout: page
 permalink: /about/index.html
-title: Bangalore's own Ruby Conference
-tags: [ruby, gardencityruby, bangalore, blog, conference]
+title: "Bangalore's own Ruby Conference"
+tags: 
+  - ruby
+  - gardencityruby
+  - bangalore
+  - blog
+  - conference
+published: true
 ---
 
 Garden City Ruby Conference is brought to you by the Ruby Community in Bangalore. The first edition of the conference will be in 2014. 
@@ -20,10 +26,10 @@ Bangalore Ruby User Group : [Website](http://bangaloreruby.org) | [Mailing list]
 * [Satish Perala](https://twitter.com/satishperala)
 * [Swanand Pagnis](https://twitter.com/_swanand)
 * [Tejas Dinkar](https://twitter.com/tdinkar)
+* [Tejas Dinkar](https://twitter.com/tdinkar)
 
 Team email: [team@gardencityruby.org](mailto:team@gardencityruby.org)
 
 ### Special Thanks
 * [Kashyap Kondamudi](https://twitter.com/kgrz)
 * [Rakshith Ashok](https://twitter.com/RAKAFLACKA)
-
